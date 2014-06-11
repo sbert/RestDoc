@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="RestDoc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="RestDoc.war">
+      <element id="artifact" artifact-name="RestDoc:war exploded" />
+    </root>
+  </artifact>
+</component>
