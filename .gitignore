@@ -1,0 +1,17 @@
+# Ignore all dotfiles...
+.*
+# except for .gitignore
+!.gitignore
+# Ignore working directory #
+tmp
+test-result
+eclipse
+data
+target
+.idea
+# Ignore Intellij file
+*.iml
+*.ipr
+*.iws
+#Ignore Atlassian file
+atlassian*
