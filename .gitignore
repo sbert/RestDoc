@@ -13,5 +13,5 @@ target
 *.iml
 *.ipr
 *.iws
-#Ignore Atlassian file
+# Ignore Atlassian file
 atlassian*
